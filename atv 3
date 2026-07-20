@@ -1,0 +1,6 @@
+<?php
+$reais=100;
+$cotacao=5.40;
+$dolares=$reais/$cotacao
+echo"R$ $reais valem US$ $dolares"
+?>
