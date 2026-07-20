@@ -1,0 +1,7 @@
+<?php
+$preco=200;
+$desconto=$preco*0.10;
+$valorFinal=$preco-$desconto;
+echo"Valor final com desconto: R$ ".$valorFinal;
+var_dump($valorFinal);
+?>
