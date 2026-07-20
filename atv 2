@@ -1,0 +1,5 @@
+<?php
+const EMPRESA="Empresa de Arthur"
+$equipamentos=["Notebook","Monitor","Teclado"]
+echo"A ".EMPRESA." fornece: ".$equipamentos[1]
+?>
