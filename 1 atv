@@ -1,0 +1,5 @@
+<?php
+$idade=25;
+$dias=$idade*365
+echo"voce ja viveu ".$dias "dias";
+?>
