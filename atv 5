@@ -1,0 +1,6 @@
+<?php
+$guerreiro=["nome"=>"arthur","vida"=>100,"forca"=>15]
+$danoCritico=($guerreiro["forca"]+$guerreiro["vida"])**2
+echo"Guerreiro: ".$guerreiro["nome"]
+echo"Dano Critico: "$danoCritico
+?>
